@@ -6,8 +6,8 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'adhdai',
-  description: 'Created with v0',
-  generator: 'v0.app',
+  description: 'Created with 心灵疗愈',
+  generator: '心灵疗愈.app',
 }
 
 export default function RootLayout({
